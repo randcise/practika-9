@@ -1,0 +1,14 @@
+C:\Users\Nitro\PracticeWork9\Task3_LambdaPredicate\bin\Debug\net10.0\Task3_LambdaPredicate.exe
+C:\Users\Nitro\PracticeWork9\Task3_LambdaPredicate\bin\Debug\net10.0\Task3_LambdaPredicate.deps.json
+C:\Users\Nitro\PracticeWork9\Task3_LambdaPredicate\bin\Debug\net10.0\Task3_LambdaPredicate.runtimeconfig.json
+C:\Users\Nitro\PracticeWork9\Task3_LambdaPredicate\bin\Debug\net10.0\Task3_LambdaPredicate.dll
+C:\Users\Nitro\PracticeWork9\Task3_LambdaPredicate\bin\Debug\net10.0\Task3_LambdaPredicate.pdb
+C:\Users\Nitro\PracticeWork9\Task3_LambdaPredicate\obj\Debug\net10.0\Task3_LambdaPredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\PracticeWork9\Task3_LambdaPredicate\obj\Debug\net10.0\Task3_LambdaPredicate.AssemblyInfoInputs.cache
+C:\Users\Nitro\PracticeWork9\Task3_LambdaPredicate\obj\Debug\net10.0\Task3_LambdaPredicate.AssemblyInfo.cs
+C:\Users\Nitro\PracticeWork9\Task3_LambdaPredicate\obj\Debug\net10.0\Task3_LambdaPredicate.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\PracticeWork9\Task3_LambdaPredicate\obj\Debug\net10.0\Task3_LambdaPredicate.dll
+C:\Users\Nitro\PracticeWork9\Task3_LambdaPredicate\obj\Debug\net10.0\refint\Task3_LambdaPredicate.dll
+C:\Users\Nitro\PracticeWork9\Task3_LambdaPredicate\obj\Debug\net10.0\Task3_LambdaPredicate.pdb
+C:\Users\Nitro\PracticeWork9\Task3_LambdaPredicate\obj\Debug\net10.0\Task3_LambdaPredicate.genruntimeconfig.cache
+C:\Users\Nitro\PracticeWork9\Task3_LambdaPredicate\obj\Debug\net10.0\ref\Task3_LambdaPredicate.dll

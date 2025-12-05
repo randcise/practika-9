@@ -1,0 +1,14 @@
+C:\Users\Nitro\PracticeWork9\Task2_LambdaFunc\bin\Debug\net10.0\Task2_LambdaFunc.exe
+C:\Users\Nitro\PracticeWork9\Task2_LambdaFunc\bin\Debug\net10.0\Task2_LambdaFunc.deps.json
+C:\Users\Nitro\PracticeWork9\Task2_LambdaFunc\bin\Debug\net10.0\Task2_LambdaFunc.runtimeconfig.json
+C:\Users\Nitro\PracticeWork9\Task2_LambdaFunc\bin\Debug\net10.0\Task2_LambdaFunc.dll
+C:\Users\Nitro\PracticeWork9\Task2_LambdaFunc\bin\Debug\net10.0\Task2_LambdaFunc.pdb
+C:\Users\Nitro\PracticeWork9\Task2_LambdaFunc\obj\Debug\net10.0\Task2_LambdaFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\PracticeWork9\Task2_LambdaFunc\obj\Debug\net10.0\Task2_LambdaFunc.AssemblyInfoInputs.cache
+C:\Users\Nitro\PracticeWork9\Task2_LambdaFunc\obj\Debug\net10.0\Task2_LambdaFunc.AssemblyInfo.cs
+C:\Users\Nitro\PracticeWork9\Task2_LambdaFunc\obj\Debug\net10.0\Task2_LambdaFunc.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\PracticeWork9\Task2_LambdaFunc\obj\Debug\net10.0\Task2_LambdaFunc.dll
+C:\Users\Nitro\PracticeWork9\Task2_LambdaFunc\obj\Debug\net10.0\refint\Task2_LambdaFunc.dll
+C:\Users\Nitro\PracticeWork9\Task2_LambdaFunc\obj\Debug\net10.0\Task2_LambdaFunc.pdb
+C:\Users\Nitro\PracticeWork9\Task2_LambdaFunc\obj\Debug\net10.0\Task2_LambdaFunc.genruntimeconfig.cache
+C:\Users\Nitro\PracticeWork9\Task2_LambdaFunc\obj\Debug\net10.0\ref\Task2_LambdaFunc.dll

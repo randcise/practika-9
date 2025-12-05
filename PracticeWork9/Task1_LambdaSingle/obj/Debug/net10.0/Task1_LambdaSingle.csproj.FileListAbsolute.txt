@@ -1,0 +1,14 @@
+C:\Users\Nitro\PracticeWork9\Task1_LambdaSingle\bin\Debug\net10.0\Task1_LambdaSingle.exe
+C:\Users\Nitro\PracticeWork9\Task1_LambdaSingle\bin\Debug\net10.0\Task1_LambdaSingle.deps.json
+C:\Users\Nitro\PracticeWork9\Task1_LambdaSingle\bin\Debug\net10.0\Task1_LambdaSingle.runtimeconfig.json
+C:\Users\Nitro\PracticeWork9\Task1_LambdaSingle\bin\Debug\net10.0\Task1_LambdaSingle.dll
+C:\Users\Nitro\PracticeWork9\Task1_LambdaSingle\bin\Debug\net10.0\Task1_LambdaSingle.pdb
+C:\Users\Nitro\PracticeWork9\Task1_LambdaSingle\obj\Debug\net10.0\Task1_LambdaSingle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\PracticeWork9\Task1_LambdaSingle\obj\Debug\net10.0\Task1_LambdaSingle.AssemblyInfoInputs.cache
+C:\Users\Nitro\PracticeWork9\Task1_LambdaSingle\obj\Debug\net10.0\Task1_LambdaSingle.AssemblyInfo.cs
+C:\Users\Nitro\PracticeWork9\Task1_LambdaSingle\obj\Debug\net10.0\Task1_LambdaSingle.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\PracticeWork9\Task1_LambdaSingle\obj\Debug\net10.0\Task1_LambdaSingle.dll
+C:\Users\Nitro\PracticeWork9\Task1_LambdaSingle\obj\Debug\net10.0\refint\Task1_LambdaSingle.dll
+C:\Users\Nitro\PracticeWork9\Task1_LambdaSingle\obj\Debug\net10.0\Task1_LambdaSingle.pdb
+C:\Users\Nitro\PracticeWork9\Task1_LambdaSingle\obj\Debug\net10.0\Task1_LambdaSingle.genruntimeconfig.cache
+C:\Users\Nitro\PracticeWork9\Task1_LambdaSingle\obj\Debug\net10.0\ref\Task1_LambdaSingle.dll
